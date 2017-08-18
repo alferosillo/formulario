@@ -14,7 +14,13 @@ width: 90%;
 height: 1000px;
 margin: 0 auto;
 }
-label nombre{
-background-color: antiquewhite;
+fieldset{
+border: dotted 3px maroon;
+
+}
+.btn-gourmet{
+color:#fff;
+background-color: burlywood;
+border-color: darkgoldenrod;
 }
 
